@@ -1,2 +1,3 @@
 # MSSAGF
-We will release our source code of MSSAGF as soon as possible.
+Run MSSAGF.m to output results.
+
