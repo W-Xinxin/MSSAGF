@@ -15,7 +15,7 @@ If you find our work useful in your research, please consider citing:
   title={Multimodal Remote Sensing Image Clustering With Multiscale Spectral-Spatial Anchor Graphs},    
   year={2025},   
   volume={63},   
-  number={},   
+  number={4405612},   
   pages={1-12},   
 }  
 
